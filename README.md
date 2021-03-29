@@ -8,7 +8,7 @@
 
 ## Screenshot
 
-![Screenshot of VCV Rack Patch](screenshot.png)
+![Screenshot of VCV Rack Patch](screenshot.PNG)
 
 ## Link to Sound File
 
