@@ -1,6 +1,6 @@
 # My First VCV Rack Assignment
 
-## Screenshot
+## Patch Screenshot
 
 ![Screenshot of VCV Rack Patch](screenshot.PNG)
 
